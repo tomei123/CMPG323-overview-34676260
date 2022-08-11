@@ -11,7 +11,7 @@
 
 ## Branching Strategy
 
-## Gitignore File within each project
+## Gitignore file within each project
 
 ## Storage of credentials and sensitive information
 
