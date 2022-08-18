@@ -18,4 +18,4 @@ I will use this repository to organize my 323 semester schedule and make a to-do
 When committing a project to a repository, these functions in the file are used to indicate when a file needs to be ignored. Files that we are working on which the IDE generates should be ignored. Also, files containing confidential information or passwords should be ignored.
 
 ## Storage of credentials and sensitive information
-
+You can store sensitive information in your organization's repository or repository environments by using encrypted secrets. You can create secret environment variables in a repository which are encrypted. Github helps ensure that secrets are encrypted by using a libsodium sealed box before they reach GitHub and the secrets remain encrypted until you utilize them in a process.
