@@ -11,6 +11,7 @@ I will use this repository to organize my 323 semester schedule and make a to-do
 <a href = "https://github.com/tomei123/CMPG323-overview-34676260.git"> 3.CMPG323 - Project 5 - 34676260 - Reporting Project </a> 
 
 ## Diagram Explaining Project
+![Diagram_34676260](https://user-images.githubusercontent.com/91941149/185414952-05cf0f78-e1f9-4bcc-aad0-8099aa91e1dc.png)
 
 ## Branching Strategy
 
