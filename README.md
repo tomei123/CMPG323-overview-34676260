@@ -14,7 +14,34 @@ I will use this repository to organize my 323 semester schedule and make a to-do
 ![Diagram_34676260](https://user-images.githubusercontent.com/91941149/185414952-05cf0f78-e1f9-4bcc-aad0-8099aa91e1dc.png)
 
 ## Branching Strategy
-![download](https://user-images.githubusercontent.com/91941149/185415336-09aeeacd-a641-4a69-8f74-03d34349a660.png)
+Project 1
+- Add and edit features
+- Planning
+- Repositories and dates
+
+Project 2
+- Implementation of API
+- Hot fixes
+- Evaluation of code
+- Add to main repo
+
+Project 3
+- Creation of web app
+- Planning of app
+- Development of app
+- Code evaluation
+- Add to main repo
+
+Project 4
+- Testing and RPA
+- Debugging
+- Apply any changes
+- Add to main repo
+
+Project 5
+- Report
+- Evaluation
+- Feedback
 
 ## Gitignore file within each project
 When committing a project to a repository, these functions in the file are used to indicate when a file needs to be ignored. Files that we are working on which the IDE generates should be ignored. Also, files containing confidential information or passwords should be ignored.
