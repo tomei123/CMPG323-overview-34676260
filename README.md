@@ -15,6 +15,7 @@ I will use this repository to organize my 323 semester schedule and make a to-do
 ## Branching Strategy
 
 ## Gitignore file within each project
+When committing a project to a repository, these functions in the file are used to indicate when a file needs to be ignored. Files that we are working on which the IDE generates should be ignored. Also, files containing confidential information or passwords should be ignored.
 
 ## Storage of credentials and sensitive information
 
