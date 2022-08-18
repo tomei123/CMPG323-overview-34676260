@@ -1,6 +1,6 @@
 # CMPG323-overview-34676260
 
-I will use this repository to organize my 323 semester schedule and make a to-do list. Additionally, I will have a well-planned framework with each project's due dates and the estimated duration of each activity. I will try my best to follow the schedule that I planned for myself. I'll also give a brief description of the branching technique I'll be employing. 
+I will use this repository to organize my 323 semester schedule and make a to-do list. Additionally, I will have a well-planned framework with each project's due dates and the estimated duration of each activity. I will try my best to follow the schedule that I planned for myself. I'll also give a brief overview of the branching technique I'll be employing. 
 
 ## List of Repositories:
 
