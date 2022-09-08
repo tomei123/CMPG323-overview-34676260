@@ -5,7 +5,7 @@ I will use this repository to organize my 323 semester schedule and make a to-do
 ## List of Repositories:
 
 <a href = "https://github.com/tomei123/CMPG323-overview-34676260.git"> 1. CMPG323-overview-34676260-Agile and Scrum </a> <br>
-<a href = "https://github.com/tomei123/CMPG323-overview-34676260.git"> 2.CMPG323 - Project 2 - 34676260 - API Development </a> <br>
+<a href = "https://github.com/tomei123/CMPG323-Project2-34676260.git"> 2.CMPG323 - Project 2 - 34676260 - API Development </a> <br>
 <a href = "https://github.com/tomei123/CMPG323-overview-34676260.git"> 3.CMPG323 - Project 3 - 34676260 - Web App Project Testing Patterns </a> <br>
 <a href = "https://github.com/tomei123/CMPG323-overview-34676260.git"> 4.CMPG323 - Project 4 - 34676260 - RPA & Testing Project </a> <br>
 <a href = "https://github.com/tomei123/CMPG323-overview-34676260.git"> 3.CMPG323 - Project 5 - 34676260 - Reporting Project </a> 
